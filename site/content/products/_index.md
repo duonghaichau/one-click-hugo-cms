@@ -1,7 +1,7 @@
 ---
 title: TIẾNG ANH MS. HỒNG
 type: products
-image: /img/tamh_main_poster.jpeg
+image: /img/tamh_logo.jpeg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
